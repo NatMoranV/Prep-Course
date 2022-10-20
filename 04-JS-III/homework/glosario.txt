@@ -1,0 +1,3 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Arrays: Es como un estante donde se pueden almacenar todo tipo de cosas, como números, palabras, funciones, otros arrays, etc. Cada cosa que almacenes ocupa un lugar que podría ser similar a un cajón o un peldaño, y se puede acceder a lo que hay en cada peldaño por medio de su identificador que sería un número, automáticamente define un número para cada posición, comienza en 0. 

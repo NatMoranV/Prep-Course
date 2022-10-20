@@ -1,0 +1,7 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables: Son palabras que puedes definir para guardar la información que necesites, pueden ser numeros, palabras, funciones, objetos, etc. 
+ * Strings: Son letras o palabras que se usan para expresar algo o devolver información 
+ * Funciones (argumentos, `return`): Las funciones sirven para ejecutar acciones, como comparaciones, validaciones, cuestiones lógicas y devolver o almacenar los resultados. Los       argumentos son palabras para definir lo que necesita la función para ejecutarse o funcionar correctamente, por ejemplo si es una operación matemática, forzosamente necesitará números. Y la palabra return sirve para devolver la información que se necesite, así como para terminar de ejecutar la función.
+ * Declaraciones `if`: Sirve para hacer una comparación entre ciertas acciones o atributos de los argumentos.
+ * Valores booleanos (`true`, `false`): Solo tienen esos dos estados, verdadero o falso, sirve para hacer comparaciones, y saber si se encuentra cierta información en alguna parte del código, etc. 

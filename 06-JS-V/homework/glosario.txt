@@ -1,0 +1,4 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `prototype` : Es como el objeto padre del objeto que estás trabajando, el cuál tiene propiedades que hereda a los hijos.
+* _Constructors_ (de Clases): Sirve para definir argumentos como inicialización que se pueden usar para crear otros objetos.
