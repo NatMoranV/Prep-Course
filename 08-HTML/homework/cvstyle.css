@@ -1,0 +1,81 @@
+*{
+    font-family: poppins;
+}
+
+#content{
+    width: 70%;
+    left: 25%;
+    position: relative;
+}
+
+#lateral{
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 20%;
+    height: 100%;
+    color: white;
+    background: rgb(11,19,33);
+    background: linear-gradient(5deg, rgba(11,19,33,1) 0%, rgba(7,95,89,1) 51%, rgba(0,205,171,1) 100%);
+    border-radius: 0 16px 16px 0;
+}
+
+#person{
+    text-align: center;
+    margin: auto;
+}
+
+#lateral h2, h5 {
+    padding: 0;
+    margin: 0;
+}
+
+#lateral h4{
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+#lateral ul{
+    margin-top: 4px;
+    list-style: none;
+    padding-left: 0;
+}
+
+#lateral>div:not(:first-child){
+    margin-bottom: 50px;
+}
+
+#person{
+margin-bottom: 40px;
+}
+
+.progress{
+    margin-bottom: 10px;
+}
+
+#experience h6{
+    display: inline;
+}
+
+#experience ul{
+    margin: 10px 0 20px 0;
+    list-style: none;
+}
+
+#experience ul li::before {
+    content: "\2022";
+    color: #00CDAB;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -2em;
+}
+
+#tools span{
+    display: block;
+}
+
+#content h4{
+    margin: 30px 0 20px 0;
+}
